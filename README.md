@@ -1,18 +1,17 @@
-<h1 align="center">Hi, I'm Devarajan 👋</h1>
-<h3 align="center">Aspiring Engineer | Artificial Intelligence & Data Science Enthusiast</h3>
+<h1 align="center">Hi , I'm Devarajan</h1>
+<h3 align="center">An Aspiring Engineer with a Focus on Artificial Intelligence & Data Science</h3>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Machine Learning and AI-based projects** 💻  
-- 🌱 Exploring **AI and Data Science** with a focus on both theoretical concepts and real-world applications.  
-- 👯 Seeking collaboration on **AI, Machine Learning, and Data Science projects** that bring impactful solutions and have research potential.  
-- 📫 Reach me at: **[devarajan8.official@gmail.com](mailto:devarajan8.official@gmail.com)**  
+- 🔭 I’m currently working on **Machine Learning and AI-based projects💻**  
+- 🌱 Exploring AI and Data Science with a focus on both theoretical concepts and practical applications in various fields.  
+- 👯 I’m looking to collaborate on **AI, Machine Learning, and Data Science Projects** that have real-world applications and research potential.  
+- 📫 How to reach me: **devarajan8.official@gmail.com**  
 
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
+<p align="left">
     <a href="https://linkedin.com/in/devarajan8" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -24,7 +23,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="center">
+<p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </a>
