@@ -77,6 +77,3 @@
     </a>
 </p>
 
----
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=DevaRajan8&color=blue)
