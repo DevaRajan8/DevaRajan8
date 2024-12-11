@@ -16,9 +16,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="https://www.leetcode.com/Blizz_8" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
     </a>
 </p>
+
 
 ---
 
