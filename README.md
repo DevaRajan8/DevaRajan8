@@ -13,10 +13,10 @@
 ### 🌐 Connect with Me:
 <p align="left">
     <a href="https://linkedin.com/in/devarajan8" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="https://www.leetcode.com/Blizz_8" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
     </a>
 </p>
 
@@ -74,12 +74,6 @@
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
