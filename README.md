@@ -22,21 +22,53 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" alt="React"/>
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-    <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="MATLAB"/>
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/ios-filled/50/61DAFB/react-native.png" alt="React" width="40" height="40"/>
+    </a>
+    <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    </a>
 </p>
