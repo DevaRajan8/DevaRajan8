@@ -48,6 +48,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
     </a>
@@ -76,4 +79,3 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     </a>
 </p>
-
