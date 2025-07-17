@@ -29,11 +29,11 @@
 
 <div align="center">
   
-| 🎯 **FOCUS AREAS** | 🛠️ **TECH STACK** | 🎮 **CURRENT VIBES** |
-|:---:|:---:|:---:|
-| ![LLM](https://img.shields.io/badge/🤖_LLM-Development-FF6B6B?style=for-the-badge&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Status](https://img.shields.io/badge/🔥_Currently-Building_RAG_Systems-FF6B6B?style=for-the-badge) |
-| ![RAG](https://img.shields.io/badge/🔍_RAG-Systems-4ECDC4?style=for-the-badge&logo=elasticsearch&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Learning](https://img.shields.io/badge/🚀_Learning-Vector_Databases-4ECDC4?style=for-the-badge) |
-| ![NLP](https://img.shields.io/badge/📝_NLP-Processing-45B7D1?style=for-the-badge&logo=natural-language-toolkit&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Mode](https://img.shields.io/badge/☕_Mode-Deep_Learning_Sprint-45B7D1?style=for-the-badge) |
+| 🎯 **FOCUS AREAS** | 🛠️ **TECH STACK** |
+|:---:|:---:|
+| ![LLM](https://img.shields.io/badge/🤖_LLM-Development-FF6B6B?style=for-the-badge&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![RAG](https://img.shields.io/badge/🔍_RAG-Systems-4ECDC4?style=for-the-badge&logo=elasticsearch&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![NLP](https://img.shields.io/badge/📝_NLP-Processing-45B7D1?style=for-the-badge&logo=natural-language-toolkit&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 
 </div>
 
