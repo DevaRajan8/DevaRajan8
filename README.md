@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Student-Amrita_Vishwa_Vidyapeetham-FF6B6B?style=flat-square&labelColor=2C3E50" />
-  <img src="https://img.shields.io/badge/💼_Intern-CODE_4_BOTS_TECH-4ECDC4?style=flat-square&labelColor=2C3E50" />
+  <img src="https://img.shields.io/badge/💼_Intern-TRAZE-AI-4ECDC4?style=flat-square&labelColor=2C3E50" />
   <img src="https://img.shields.io/badge/📍_Location-India-45B7D1?style=flat-square&labelColor=2C3E50" />
 </p>
 
