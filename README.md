@@ -15,14 +15,14 @@
 <br>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DevaRajan8&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&border_radius=10" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevaRajan8&theme=synthwave&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4ECDC4&sideLabels=4ECDC4&dates=ffffff&border_radius=10" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevaRajan8&theme=radical&hide_border=true" />
+  <img width="45%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it%20with%20AI&author=Devarajan%20S" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevaRajan8&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&area_color=FF6B6B&title_color=ffffff&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?username=DevaRajan8&theme=radical&bg_color=0D1117&border=true&title_color=FF6B6B&text_color=ffffff&icon_color=4ECDC4" />
 </div>
 
 <br>
@@ -108,7 +108,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaRajan8&layout=donut&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevaRajan8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&icon_color=4ECDC4&border_radius=10" />
 </div>
 
 <br>
