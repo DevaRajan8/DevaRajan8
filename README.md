@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=150&section=header&text=DEVARAJAN%20S&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=header&text=DEVARAJAN%20S&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
 </h1>
 
 <div align="center">
