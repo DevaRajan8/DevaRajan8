@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Student-Amrita_Vishwa_Vidyapeetham-FF6B6B?style=flat-square&labelColor=2C3E50" />
 <!--   <img src="https://img.shields.io/badge/💼_Intern-TRAZEAI-4ECDC4?style=flat-square&labelColor=2C3E50" /> -->
-  <img src="https://komarev.com/ghpvc/?username=Devarajan8&color=2C3E50&style=flat-square" alt="Profile Views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=Devarajan8&color=2C3E50&style=flat-square" alt="Profile Views" /> -->
   <img src="https://img.shields.io/badge/📍_Location-India-45B7D1?style=flat-square&labelColor=2C3E50" />
 </p>
 
