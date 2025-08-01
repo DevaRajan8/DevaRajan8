@@ -24,7 +24,6 @@ Exploring the frontiers of artificial intelligence, machine learning, and data s
 
 ## Connect With Me
 
-* **GitHub:** [DevaRajan8](https://github.com/DevaRajan8)
 * **LinkedIn:** [devarajan8](https://linkedin.com/in/devarajan8)
 * **Email:** devarajan8.official@gmail.com
 
