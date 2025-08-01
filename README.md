@@ -1,6 +1,6 @@
 # Hey there! I'm Devarajan S 👋
 
-I'm a passionate AI & Data Science student at Amrita Vishwa Vidyapeetham who thrives on transforming complex problems into intelligent solutions. My journey revolves around building cutting-edge AI systems that bridge the gap between research and real-world applications.
+I'm a passionate AI & Data Science student who thrives on transforming complex problems into intelligent solutions. My journey revolves around building cutting-edge AI systems that bridge the gap between research and real-world applications.
 
 ## What I'm All About
 
